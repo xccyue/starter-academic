@@ -72,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Chaoyue Xing, a passionate undergraduate student who has learned various tools in data mining and machine learning and eager to put my knowledge into practice. I spent the first two years of my college life at Shandong University which equipped me with solid programming and mathematics skills. I’m currently undertaking the honours year of my Bachelor degree.
+Hi, I am Chaoyue Xing, a passionate undergraduate student who has learned various tools in data mining and machine learning and eager to put my knowledge into practice. I spent the first two years of my college life at Shandong University which equipped me with solid programming and mathematics skills. I’m currently undertaking the honours year of my Bachelor degree, and my project is mainly about the 3D dance generation conditioned on music.
